@@ -11,6 +11,8 @@ download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resol
   Download PyTesseract-OCR/tesseract.exe to your system and add its location to your system's environment variables. Then proceed as I have written in my code
 ## Available Scripts
 In the project directory, you can run:
+# Project Screenshots
+![Screenshot 2024-09-17 192216](https://github.com/user-attachments/assets/3004db6a-80ac-4c53-beab-c61a3c72a2f4)
 
 ### `npm start`
 
@@ -74,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
