@@ -13,6 +13,10 @@ download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resol
 In the project directory, you can run:
 # Project Screenshots
 ![Screenshot 2024-09-17 192216](https://github.com/user-attachments/assets/3004db6a-80ac-4c53-beab-c61a3c72a2f4)
+![Screenshot 2024-09-17 193310](https://github.com/user-attachments/assets/f64b1f5c-0b3d-4f0b-8620-518cbcb9c469)
+![Screenshot 2024-09-17 192836](https://github.com/user-attachments/assets/45bc6b01-664e-4533-8660-606225cb290b)
+
+![Screenshot 2024-09-17 192836](https://github.com/user-attachments/assets/f0bae5f4-700d-4972-b29d-d3fd2f12c54c)
 
 ### `npm start`
 
