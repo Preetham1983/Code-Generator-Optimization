@@ -4,3 +4,7 @@ The code generator optimization tool helps users solve coding-related problems a
 # Model Information
 I used CodeLlama-13B in my backend, which processes user queries related to problem-solving and provides responses
 download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resolve/main/codellama-13b-instruct.Q4_K_M.gguf
+
+# PyTesseract-OCR/tesseract.exe
+Download PyTesseract-OCR/tesseract.exe in your system and add the location of the pytessract in your system and proceeced as i written in my code 
+Download link : https://pypi.org/project/pytesseract/#files
