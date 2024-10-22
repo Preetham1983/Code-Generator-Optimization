@@ -1,9 +1,15 @@
-# Getting Started with Create React App
+# Code Optimization and Generator
+The code generator optimization tool helps users solve coding-related problems and more. It assists in preparing for interviews by generating optimized solutions, reviewing code for best practices, and offering suggestions for code improvements. Additionally, the tool supports debugging, helping users identify and fix issues, and optimizing code for better performance. This tool is a comprehensive resource for both learning and refining coding skills, making it easier for users to write efficient, high-quality code across various programming languages.\
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Model Information
+I used Codellama13b in my backend which process the user query related to the problem solving and gives the response 
+download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resolve/main/codellama-13b-instruct.Q4_K_M.gguf\
 
+#PyTesssract (image to text convertion)
+  Download PyTesseract-OCR/tesseract.exe to your system and add its location to your system's environment variables. Then proceed as I have written in my code
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
