@@ -1,0 +1,103 @@
+/* General styles for the optimize page */
+.optimize-page {
+    padding: 20px;
+    max-width: 780px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header style */
+  .optimize-page h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 18px;
+    color: #333;
+  }
+  
+  /* Form styles */
+  .optimize-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .optimize-form textarea {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: vertical;
+    color: black;
+  }
+  
+  .styled-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .styled-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Loading spinner styles */
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  /* Response section styles */
+  .response {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .response pre {
+    margin: 0;
+    white-space: pre-wrap; /* Allows wrapping long lines */
+    word-wrap: break-word;
+  }
+  
+  .response code {
+    display: block;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Copy button style */
+  .copy-button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .copy-button:hover {
+    background-color: #0056b3;
+  }
+  
