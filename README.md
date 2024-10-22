@@ -9,10 +9,9 @@ download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resol
 Download PyTesseract-OCR/tesseract.exe in your system and add the location of the pytessract in your system and proceeced as i written in my code 
 Download link : https://pypi.org/project/pytesseract/#files
 
-# Run- frontend with these commands
- replace the files where u created using create-react-app my-app with above files 
-  to run frontend 
-  command -- npm start
-# Run - backend commands 
-  Command1 --python app.py ( to start the flask application where your model will process the user query)
-  Command2 --node server.js ( is the backend server which will store the query asked by the user and the response give by the LLM model)
+# Run- Frontend Commands
+ Replace the files you created using create-react-app my-app with the above files to run the frontend 
+  command: npm start
+# Run - Backend Commands 
+   Command1 --python app.py ( To start the app.py flask application where your model will process the user query and give the response back to frontend)
+   Command2 --node server.js ( Is the backend server which will store the query asked by the user and the response give by the LLM model)
