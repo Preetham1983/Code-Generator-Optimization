@@ -3,7 +3,6 @@ The code generator optimization tool helps users solve coding-related problems a
 
 I used ensemble learning to improve the accuracy if the response 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Model Information
 I used Codellama13b in my backend which process the user query related to the problem solving and gives the response 
@@ -12,6 +11,7 @@ download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resol
 # PyTesssract (image to text convertion)
   Download PyTesseract-OCR/tesseract.exe to your system and add its location to your system's environment variables. Then proceed as I have written in my code
   Download link: https://pypi.org/project/pytesseract/
+  which convert the image  to text (soo llm will convert the text to code)
 ## Available Scripts
 In the project directory, you can run:
 # Project Screenshots
