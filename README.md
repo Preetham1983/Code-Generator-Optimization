@@ -1,5 +1,6 @@
 # Code Optimization and Generator
-The code generator optimization tool helps users solve coding-related problems and more. It assists in preparing for interviews by generating optimized solutions, reviewing code for best practices, and offering suggestions for code improvements. Additionally, the tool supports debugging, helping users identify and fix issues, and optimizing code for better performance. This tool is a comprehensive resource for both learning and refining coding skills, making it easier for users to write efficient, high-quality code across various programming languages.\
+
+The code generator optimization tool helps users solve coding-related problems and more. It assists in preparing for interviews by generating optimized solutions, reviewing code for best practices, and offering suggestions for code improvements. Additionally, the tool supports debugging, helping users identify and fix issues, and optimizing code for better performance. This tool is a comprehensive resource for both learning and refining coding skills, making it easier for users to write efficient, high-quality code across various programming languages
 
 I used ensemble learning to improve the accuracy if the response 
 where weak learners learn together to solve the problems
