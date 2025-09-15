@@ -12,7 +12,8 @@ download link: https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resol
 # PyTesssract (image to text convertion)
   Download PyTesseract-OCR/tesseract.exe to your system and add its location to your system's environment variables. Then proceed as I have written in my code
   Download link: https://pypi.org/project/pytesseract/
-  which convert the image  to text (soo llm will convert the text to code)
+  which convert the image  to text (soo llm will convert the text to code) and llm will process the text which extracted from the image and give the response
+
 ## Available Scripts
 In the project directory, you can run:
 # Project Screenshots
